@@ -4,7 +4,7 @@ This repository demonstrates the basics of using middleware functions in Express
 
 ## 🪄 Features
 
-- Logging middleware using Morgan
+- Logging middleware using Morgan npm package
 - Custom middleware to add a request timestamp
 - Route-specific middleware to log a message
 - Error handling middleware to catch 404 errors
